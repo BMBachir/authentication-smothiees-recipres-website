@@ -1,0 +1,3 @@
+Username  boubaidjabachir3
+Password  bachir123
+name      node-auth
